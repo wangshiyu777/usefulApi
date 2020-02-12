@@ -3,6 +3,10 @@ Useful interface, long - term maintenance, suggestion message(有用的接口，
 
 # 声明
 
+问题咨询与建议，欢迎加入
+
+[image](https://github.com/wangshiyu777/usefulApi/blob/master/static/20200212154159.jpg)
+
 # 目录
 
 [TOC]
