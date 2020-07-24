@@ -1,3 +1,7 @@
+**仓库迁移** ，新地址：[https://github.com/Rodert/JavaPub](https://github.com/Rodert/JavaPub)
+
+
+
 # usefulApi
 Useful interface, long - term maintenance, suggestion message(有用的接口，长期维护，有建议留言)
 
@@ -35,3 +39,5 @@ c)接口参数：fmt：返回类型，包括（json/html）,url：新闻详情�
 
 d)返回值：包含（标题，时间，正文）
 
+
+![](https://img-blog.csdnimg.cn/20200702221636781.jpg)
